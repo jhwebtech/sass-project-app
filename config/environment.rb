@@ -13,5 +13,5 @@ ActionMailer::Base.smtp_settings = {
   :domain => 'heroku.com',
   :enable_starttls_auto => true
 }
-Status API Training Shop Blog About
+
 
